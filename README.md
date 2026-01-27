@@ -9,4 +9,5 @@ Elements in a list are accessed using indexing, where the index starts from 0. P
 Various operations can be performed on lists such as adding elements using append() and insert(), extending lists using extend(), modifying elements, and applying built-in functions like len(), max(), min(), and sum() for data analysis.
 
 Due to their flexibility and ease of use, lists are widely used in Python programming.
-conclusion:In this experiment, the concept of lists in Python was studied. Various list operations such as creation, indexing, slicing, and use of built-in functions were performed successfully. This experiment helped in understanding how lists can be used to store and manipulate multiple data values efficiently.
+
+conclusion: In this experiment, the concept of lists in Python was studied. Various list operations such as creation, indexing, slicing, and use of built-in functions were performed successfully. This experiment helped in understanding how lists can be used to store and manipulate multiple data values efficiently.
